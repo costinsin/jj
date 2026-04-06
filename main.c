@@ -9,6 +9,13 @@ int subtract(int a, int b) {
 }
 
 int main() {
-    printf("Hello, World!\n");
+    int a, b;
+    
+    printf("Enter two integers: ");
+    scanf("%d %d", &a, &b);
+
+    printf("Sum: %d\n", add(a, b));
+    printf("Difference: %d\n", subtract(a, b));
+
     return 0;
 }
