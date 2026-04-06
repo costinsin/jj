@@ -11,3 +11,7 @@ I also enjoy exploring topics unrelated to coding, such as "My Little Pony." It 
 I will also explore how jj integrates with other tools and whether it can streamline my workflow.
 Additionally, I plan to test its performance on larger projects to evaluate its scalability.
 This document will serve as a log of my experiments and observations.
+
+## Notes
+
+The content of this repository is meaningless and should not be taken seriously.
